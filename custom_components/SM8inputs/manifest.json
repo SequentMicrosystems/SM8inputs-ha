@@ -1,0 +1,13 @@
+{
+	"domain": "SM8inputs",
+	"name": "Sequent Microsystems Eight HV Digital Inputs Integration",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"documentation": "https://github.com/SequentMicrosystems/SM8inputs-ha",
+	"issue_tracker": "https://github.com/SequentMicrosystems/SM8inputs-ha",
+	"dependencies": [],
+	"after_dependencies": [],
+	"codeownders": ["3lv"],
+	"config_flow": false,
+	"requirements": ["SM8inputs>=1.0.0"]
+}

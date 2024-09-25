@@ -1,3 +1,6 @@
+FULL_NAME = "Eight HV Digital Inputs"
+LINK = "https://sequentmicrosystems.com/products/eight-hv-digital-inputs-for-raspberry-pi"
+
 import lib8inputs
 API = lib8inputs
 DOMAIN = "SM8inputs"
